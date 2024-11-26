@@ -14,11 +14,12 @@ Outputs:
 
   **  Part 1**
     - Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
-    - Requirement 2: Compute Linear Regression for Each Relationship
+    - Requirement 2: Compute Linear Regression for Each Relationship. 
+    - Final File is "WeatherPy-Solved-WWF.ipynb"
 
   **  Part 2**
     - Use the Geoapify API and the geoViews Python library and employ Python skills to create map visualizations.
-
+    - Final File is "VacationPy - solved-WWF.ipynb"
 
 Resources:
 
